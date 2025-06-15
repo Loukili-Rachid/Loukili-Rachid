@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **PHP, Laravel, MySQL, JavaScript, Vue.js, React.js, RESTful APIs, API Integration, Database Design**
 
-- 🌐 Visit my portfolio at **[loukili.ma](https://www.loukili.ma/projects/)** for more information
+- 🌐 Visit my portfolio at **[loukili.ma](https://www.loukili.ma/projects/)** for more infos
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
